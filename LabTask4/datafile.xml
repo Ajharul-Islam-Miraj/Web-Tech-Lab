@@ -1,0 +1,17 @@
+<users>
+    <user>
+        <username>Ajharul</username>
+        <pass>123</pass>
+        <type>admin</type>
+    </user>
+    <user>
+        <username>Islam</username>
+        <pass>456</pass>
+        <type>user</type>
+    </user>
+    <user>
+        <username>Miraj</username>
+        <pass>678</pass>
+        <type>user</type>
+    </user>
+</users>
