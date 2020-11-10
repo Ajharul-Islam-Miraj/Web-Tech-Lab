@@ -1,0 +1,13 @@
+<books>
+    <book>
+        <bname>Twilight</bname>
+        <category>Romantic</category>
+        <description>Excellent</description>
+        <publisher>twilght</publisher>
+        <edition>13</edition>
+        <isbn>1111111111</isbn>
+		<price>899$</pages>
+        <pages>894</pages>
+        <image>photos/book.png</image>
+    </books>
+</books>
